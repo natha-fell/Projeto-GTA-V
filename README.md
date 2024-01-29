@@ -1,5 +1,6 @@
 
-<h1>Atenção! Isto é apenas um desing, ele não baixa o jogo.📢</h1>
+<h1>Atenção!📢Isto é apenas um desing<br>
+ele não descarrega o jogo realmente.</h1>
 
 <h1>SCREENSHOT</h1>
 <div align=center>
